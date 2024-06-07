@@ -23,6 +23,7 @@ github_username: username
 minimal_mistakes_skin: sunrise
 search: true
 teaser: /assets/images/gl_shader.jpg
+logo: /assets/images/gl_shader.jpg
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes@4.26.1
@@ -100,6 +101,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
