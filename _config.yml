@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   "Thought, Idea, and Architectural Decisions"
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
@@ -60,33 +60,33 @@ plugins:
 
 author:
   name   : "Robin Chen"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/dragon_on_snow.jpg"
+  bio    : "Game programmer in Taiwan. Use Unity/Godot and C# developing games at work. Use native C++ developing game engine at home."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://robin88chen.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/Lancelot_Chen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/robin88chen"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/lancelot_chen_"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/Lancelot_Chen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/robin88chen"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/lancelot_chen_"
 
 defaults:
   # _posts
