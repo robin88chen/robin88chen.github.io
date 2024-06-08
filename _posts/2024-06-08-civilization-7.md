@@ -7,8 +7,9 @@ tags:
   - civilization
 header:
   overlay_image: /assets/images/civilization_7.jpeg
-  caption: "精神時光屋又要來了!!"
+#  caption: "精神時光屋又要來了!!"
 ---
+精神時光屋又要來了!!
 
 技術文章才剛開始準備寫，結果先分享一個遊戲資訊~~
 
