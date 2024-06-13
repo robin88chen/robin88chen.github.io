@@ -20,14 +20,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   "Thought, Idea, and Architectural Decisions"
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: neon
 search: true
 teaser: /assets/images/gl_shader.jpg
 logo: /assets/images/gl_shader.jpg
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes@4.26.1
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: neon
 
 # Outputting
 permalink: /:categories/:title/
