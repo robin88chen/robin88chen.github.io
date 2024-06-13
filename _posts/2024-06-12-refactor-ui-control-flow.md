@@ -29,6 +29,7 @@ UI_A 被賦予了展現物品、返回前頁、載入與切換 UI_B, UI_C 的職
 互動的關係是這樣的：
 
 ![Original Archecture](/assets/images/ui_arch1.png)
+
 這裡面有兩個壞味道：
 
 * 1.UI物件的職責太多了
