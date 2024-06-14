@@ -112,7 +112,9 @@ defaults:
 
 comments:
   provider: "facebook"
-  
+  facebook:
+    colorscheme: "dark"
+    
 category_archive:
   type: liquid
   path: /categories/
