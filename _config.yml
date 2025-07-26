@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Robin Chen"
   avatar : "/assets/images/dragon_on_snow.jpg"
-  bio    : "Game programmer in Taiwan. Use Unity/Godot and C# developing games at work. Use native C++ developing game engine at home."
+  bio    : "Game programmer in Taiwan. Use native C++ developing games at work, and developing game engine at home."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
